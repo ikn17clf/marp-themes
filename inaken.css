@@ -17,6 +17,7 @@ section.title h1 {
 
 section.title {
     color: white;
+    backgroundColor: black;
     font-family: "Arial", "Hiragino Maru Gothic ProN";
     font-size: 36px;
     text-align: center;
